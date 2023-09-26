@@ -183,7 +183,7 @@ Example:
   }
 ```
 
-## Register Storage Class
+### Register Storage Class
 
 Register variables are local variables declared within a function using the register storage class specifier.
 
