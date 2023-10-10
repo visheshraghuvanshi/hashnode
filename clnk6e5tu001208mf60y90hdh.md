@@ -1,5 +1,5 @@
 ---
-title: "Software Architecture -4"
+title: "Software Architecture - 4"
 seoTitle: "How to Document Software Architectures Effectively"
 seoDescription: "Learn how to effectively document software architectures using architectural views, UML, architecture description languages and more."
 datePublished: Tue Oct 10 2023 10:25:01 GMT+0000 (Coordinated Universal Time)
