@@ -36,7 +36,7 @@ Hive provides:
 
 Hive enables data summarization, queries and analysis of large datasets.
 
-## **Hive Architecture**
+### **Hive Architecture**
 
 ![Hive Architecture - Detailed Explanation - InterviewBit](https://www.interviewbit.com/blog/wp-content/uploads/2022/06/Hive-Architecture-1024x955.png align="center")
 
