@@ -22,25 +22,27 @@ Data refers to values of qualitative or quantitative variables about objects.
 
 Types of data:
 
-• Numerical - values represented by numbers like temperature, weight, etc.
-
-• Categorical - values represented by categories like gender, colour, etc.
-
-• Text - unstructured data like documents, articles, and social media posts.
-
-• Image - photos, videos, diagrams, etc.
-
-• Audio - recordings of sounds, voices, music, etc.
+* Numerical - values represented by numbers like temperature, weight, etc.
+    
+* Categorical - values represented by categories like gender, colour, etc.
+    
+* Text - unstructured data like documents, articles, and social media posts.
+    
+* Image - photos, videos, diagrams, etc.
+    
+* Audio - recordings of sounds, voices, music, etc.
+    
 
 Data quality aspects:
 
-• Accuracy - free from errors
-
-• Completeness - contains all required information
-
-• Consistency - uses the same definitions and formats
-
-• Timeliness - up-to-date and recent
+* Accuracy - free from errors
+    
+* Completeness - contains all required information
+    
+* Consistency - uses the same definitions and formats
+    
+* Timeliness - up-to-date and recent
+    
 
 ### **Data mining**
 
@@ -579,7 +581,7 @@ It is represented by the probability density function:
 
 f(x) = (1/(σ√(2π))) e^(-((x-μ)/2σ)^2)
 
-![f(x)= {\frac{1}{\sigma\sqrt{2\pi}}}e^{- {\frac {1}{2}} (\frac {x-\mu}{\sigma})^2}](https://www.gstatic.com/education/formulas2/553212783/en/normal_distribution.svg align="center")
+![f(x)= {rac{1}{igmaqrt{2i}}}e^{- {rac {1}{2}} (rac {x-u}{igma})^2}](https://www.gstatic.com/education/formulas2/553212783/en/normal_distribution.svg align="center")
 
 Where:
 
@@ -607,7 +609,7 @@ The probability mass function is given by:
 
 P(k) = (n!/(x!(n-x)!))p^x (1-p)^(n-x)
 
-![P_{x} = {n \choose x} p^{x} q^{n-x}](https://www.gstatic.com/education/formulas2/553212783/en/binomial_distribution_formula.svg align="center")
+![P_{x} = {n hoose x} p^{x} q^{n-x}](https://www.gstatic.com/education/formulas2/553212783/en/binomial_distribution_formula.svg align="center")
 
 Where:
 
