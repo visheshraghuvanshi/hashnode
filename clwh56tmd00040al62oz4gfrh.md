@@ -1,6 +1,6 @@
 ---
 title: "Cloud Computing - 1"
-seoTitle: "Cloud Computing Unit 1 - RGPV 8th Semester"
+seoTitle: "Cloud Computing Unit - 1 | RGPV | 8th Semester"
 seoDescription: "Introduction to Service Oriented Architecture, Web Services, Basic Web Services
 Architecture, Introduction to SOAP, WSDL and UDDI; ........................."
 datePublished: Wed May 22 2024 01:25:22 GMT+0000 (Coordinated Universal Time)
