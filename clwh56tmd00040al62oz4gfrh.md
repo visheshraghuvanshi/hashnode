@@ -6,6 +6,7 @@ Architecture, Introduction to SOAP, WSDL and UDDI; ........................."
 datePublished: Wed May 22 2024 01:25:22 GMT+0000 (Coordinated Universal Time)
 cuid: clwh56tmd00040al62oz4gfrh
 slug: cloud-computing-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716562279582/507eadc1-d1f3-4bd4-bc24-217a6bb022ed.png
 tags: paas, saas, restful, cloud-computing, soap, web-services, wsdl, 2articles1week, hypervisor, service-oriented-architecture, uddi
 
 ---
