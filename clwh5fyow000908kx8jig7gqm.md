@@ -5,6 +5,7 @@ seoDescription: "Utility Computing, Elastic Computing, Ajax: asynchronous ‘ric
 datePublished: Wed May 22 2024 01:32:28 GMT+0000 (Coordinated Universal Time)
 cuid: clwh5fyow000908kx8jig7gqm
 slug: cloud-computing-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716562298310/83c5033a-8a19-43b6-941a-43e3f740326c.png
 tags: ajax, 2articles1week, utility-computing, elastic-computin, mashups, services-virtualization-technology, pitfalls-of-virtualization, multitenant-software
 
 ---
