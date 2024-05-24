@@ -5,6 +5,7 @@ seoDescription: "Cloud security fundamentals, Vulnerability assessment tool for 
 datePublished: Fri May 24 2024 14:33:50 GMT+0000 (Coordinated Universal Time)
 cuid: clwks8ikd000509ld1ont2byl
 slug: cloud-computing-4
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716562323206/fa552845-e3f8-4912-b6db-9df1c5b2fea3.png
 tags: virtualization, 2articles1week, cloud-security, vulnerability-assessment, cloud-security-alliance
 
 ---
