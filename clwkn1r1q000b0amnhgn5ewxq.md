@@ -5,6 +5,7 @@ seoDescription: "Data in the cloud refers to storing, managing, and accessing da
 datePublished: Fri May 24 2024 12:08:37 GMT+0000 (Coordinated Universal Time)
 cuid: clwkn1r1q000b0amnhgn5ewxq
 slug: cloud-computing-3
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716562310741/20b0ddc2-f42a-4cc7-abf5-ff2caea1c668.png
 tags: mapreduce, hbase, hdfs, 2articles1week, gfs, bigtable, dynamo
 
 ---
