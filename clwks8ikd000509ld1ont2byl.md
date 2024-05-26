@@ -1,6 +1,6 @@
 ---
 title: "Cloud Computing - 4"
-seoTitle: "Cloud Computing Unit - 3 | RGPV | 8th Semester"
+seoTitle: "Cloud Computing Unit - 4 | RGPV | 8th Semester"
 seoDescription: "Cloud security fundamentals, Vulnerability assessment tool for cloud, Privacy and Security in cloud: Cloud computing security architecture, ................"
 datePublished: Fri May 24 2024 14:33:50 GMT+0000 (Coordinated Universal Time)
 cuid: clwks8ikd000509ld1ont2byl
