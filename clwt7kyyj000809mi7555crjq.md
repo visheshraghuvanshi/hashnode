@@ -1,5 +1,5 @@
 ---
-title: "Managing Innovation and Emtrepreneurship - 2"
+title: "Managing Innovation and Entrepreneurship - 2"
 seoTitle: "RGPV | Unit-2 | Managing Innovation & Entrepreneurship | 8th Semester"
 seoDescription: "Sources of innovation (push, pull, analogies), transfer of technology. Creative methods and approaches used in innovation management ...."
 datePublished: Thu May 30 2024 12:05:35 GMT+0000 (Coordinated Universal Time)
