@@ -751,7 +751,7 @@ Example of how SCAMPER can be used to rethink a product's design. For instance, 
 * Helps in overcoming mental blocks and fostering creative solutions.
     
 
-[**More...**](https://visheshraghuvanshi.tech/mie-2#heading-six-thinking-hats)
+**More: In Creative methods section**
 
 ### NUF Test
 
