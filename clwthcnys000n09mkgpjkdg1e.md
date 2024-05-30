@@ -1,7 +1,7 @@
 ---
 title: "Managing Innovation and Entrepreneurship - 4"
 seoTitle: "RGPV | Unit-4 | Managing Innovation & Entrepreneurship | 8th Semester"
-seoDescription: "Innovations aimed at humans focus on addressing human needs, improving quality of life, and enhancing user experiences ....."
+seoDescription: "Innovations aimed at humans, role of co-creation in the innovation process. The strategy of innovation process, types and selection."
 datePublished: Thu May 30 2024 16:39:04 GMT+0000 (Coordinated Universal Time)
 cuid: clwthcnys000n09mkgpjkdg1e
 slug: mie-4
