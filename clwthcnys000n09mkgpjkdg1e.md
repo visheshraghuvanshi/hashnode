@@ -473,3 +473,12 @@ In the context of innovation management, selecting the appropriate strategy is c
     * **Action Plans**: Develop detailed plans for executing the chosen strategy, including timelines, milestones, and responsibilities.
         
     * **Performance Metrics**: Establish metrics to monitor progress and measure the success of the innovation strategy.
+        
+
+## Questions
+
+1. **What are innovations aimed at humans, and what role does co-creation play in the innovation process? Provide examples to support your answer.**
+    
+2. **Discuss the different strategies of the innovation process. How do businesses select appropriate strategies for innovation?**
+    
+3. **Compare and contrast at least three different types of innovation strategies. Discuss their applicability in different business scenarios.**
