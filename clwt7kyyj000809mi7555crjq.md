@@ -876,3 +876,13 @@ A company might use the NUF Test to evaluate new product ideas generated during 
     
 
 By applying the NUF Test, the company can quickly identify which product ideas have the highest potential for success and should be prioritized for further development.
+
+## Questions
+
+1. **Explain the different sources of innovation, including push, pull, and analogies. How do these sources contribute to the innovation process?**
+    
+2. **Discuss the importance of technology transfer in innovation management. Provide examples to illustrate your points.**
+    
+3. **What are the creative methods and approaches used in innovation management? Discuss at least two such methods in detail.**
+    
+4. **Describe the approaches to the management of the innovation process, including agile management, Six Thinking Hats, and the NUF test. How do these approaches facilitate innovation?**
