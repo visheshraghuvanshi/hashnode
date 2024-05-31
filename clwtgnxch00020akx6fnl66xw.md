@@ -451,3 +451,11 @@ Open Innovation is a modern approach to innovation management that emphasizes th
         
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717166325753/79db1800-d097-4268-a45d-bc2110bfc779.webp align="center")
+
+## Questions
+
+1. **Explain the Stage Gate method and its essence in managing the innovation process. How can this method be adapted to selected business models?**
+    
+2. **Discuss the concept of in-house business development of the innovation process. What are its advantages and challenges?**
+    
+3. **Define Open Innovation and discuss its limits and benefits for business development. Provide examples of companies successfully implementing Open Innovation.**
