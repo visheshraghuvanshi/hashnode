@@ -238,6 +238,8 @@ In-house business development of the innovation process involves fostering innov
     * **Resource Utilization**: Efficient use of existing resources and capabilities.
         
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717166209995/2587aa79-f1d8-4757-8571-e70388c6b569.png align="center")
+
 ### In-house Innovation Process
 
 1. **Idea Generation**:
@@ -446,3 +448,6 @@ Open Innovation is a modern approach to innovation management that emphasizes th
     * **Adaptive Capability**: Open Innovation provides the flexibility to adapt quickly to changing market conditions and technological advancements.
         
     * **Dynamic Capabilities**: Companies can develop dynamic capabilities to reconfigure their innovation strategies in response to external changes.
+        
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717166325753/79db1800-d097-4268-a45d-bc2110bfc779.webp align="center")
