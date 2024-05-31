@@ -10,7 +10,7 @@ tags: innovation, 2articles1week, transfer-of-technology, nuf-test, six-thinking
 
 ---
 
-## Sources of innovation (push, pull, analogies)
+## Sources of innovation
 
 ### Introduction to Innovation Sources
 
@@ -24,6 +24,10 @@ Innovation is essential for business growth and competitiveness. Understanding t
     
 * Analogies
     
+
+**Where do innovation come from?**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717131325151/9abf8f08-d0d3-40bf-adc4-bc1df789e376.png align="center")
 
 ### Technology Push
 
@@ -321,6 +325,8 @@ Innovation management requires creative methods and approaches to foster new ide
 
 **Six Thinking Hats** is a decision-making and problem-solving technique developed by Edward de Bono. It provides a structured approach to thinking by allowing individuals or groups to examine issues from multiple perspectives. Each "hat" represents a different mode of thinking, encouraging diverse viewpoints and fostering comprehensive analysis.
 
+![Six Thinking Hats in Product Management](https://images.ctfassets.net/6nwv0fapso8r/3d7R0XOzbjOceB37bJIx72/b1883e5fab01619f14284559342853c9/SixThinkingHats-glossary.svg align="center")
+
 #### The Six Hats
 
 1. **White Hat: Information and Data**
@@ -435,7 +441,9 @@ Innovation management requires creative methods and approaches to foster new ide
 3. **Sub-branches**: Add sub-branches for detailed ideas and information.
     
 
-**Key Points from**:
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717131943609/836f2fbc-7a6d-4daa-b822-a098f66101c5.webp align="center")
+
+**Key Points**:
 
 * Enhances creativity by allowing free flow of ideas.
     
@@ -445,6 +453,8 @@ Innovation management requires creative methods and approaches to foster new ide
 ### SCAMPER Technique
 
 **SCAMPER** is a creative thinking tool used to spark innovation and generate new ideas. It was popularized by Bob Eberle in his book "SCAMPER: Games for Imagination Development." The technique provides a structured approach to thinking by asking seven different types of questions, each represented by a letter in the acronym SCAMPER.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717132014245/b4fbc4fe-ef8f-4bff-b9cf-8a6de3d0cb2b.jpeg align="center")
 
 #### The SCAMPER Acronym
 
@@ -530,7 +540,7 @@ Innovation management requires creative methods and approaches to foster new ide
 * It emphasizes the importance of questioning assumptions and exploring alternatives to drive innovation.
     
 
-#### Example from the Text
+#### Example
 
 Example of how SCAMPER can be used to rethink a product's design. For instance, how a company might use SCAMPER to redesign a chair:
 
@@ -555,6 +565,8 @@ Example of how SCAMPER can be used to rethink a product's design. For instance, 
 
 * A user-centered approach to innovation that involves understanding the user, challenging assumptions, and redefining problems to identify alternative strategies and solutions.
     
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717132057548/3b10bb3a-318b-4287-a308-3d90d78bd304.png align="center")
 
 **Stages of Design Thinking**:
 
@@ -744,7 +756,7 @@ Example of how SCAMPER can be used to rethink a product's design. For instance, 
 * **Enhanced Collaboration**: Facilitates structured discussions and collective decision-making.
     
 
-**Key Points from**:
+**Key Points**:
 
 * Useful for managing complex innovation projects where diverse perspectives are crucial.
     
@@ -852,7 +864,7 @@ The NUF Test is a practical and straightforward tool used for evaluating the fea
 * Highlights the importance of balancing novelty with practicality to ensure that innovative ideas can be effectively implemented.
     
 
-#### Example from the Text
+#### Example
 
 A company might use the NUF Test to evaluate new product ideas generated during a brainstorming session:
 
