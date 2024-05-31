@@ -31,6 +31,8 @@ Innovations aimed at humans focus on addressing human needs, improving quality o
 
 ### Human-Centered Design (HCD)
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717166885918/b94a231d-d511-44a1-85f1-a514510f0716.webp align="center")
+
 1. **Principles of HCD**:
     
     * **Empathy**: Understanding the users’ context, experiences, and emotions.
@@ -47,6 +49,8 @@ Innovations aimed at humans focus on addressing human needs, improving quality o
         
     * **Implementation**: Prototyping and testing the ideas with users, making iterative improvements.
         
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717166948551/a4c25b9c-4e09-42b2-af24-08d6baedf38b.png align="center")
 
 ### Examples of Innovations Aimed at Humans
 
@@ -253,6 +257,8 @@ The strategy of the innovation process involves systematically planning, impleme
         
     * **Competitive Advantage**: Helps create and sustain a competitive advantage in the market.
         
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717167468337/525012c0-abe2-45a9-8bb0-42d94b75cfdd.jpeg align="center")
 
 ### Components of Innovation Strategy
 
