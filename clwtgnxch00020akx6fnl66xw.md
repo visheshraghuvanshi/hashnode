@@ -123,6 +123,8 @@ A project approach to innovation management involves structuring innovation acti
 
 The **Stage Gate Method** is a project management approach used to guide products from idea to launch. It is particularly useful in innovation management as it provides a structured process for evaluating and developing new ideas through defined stages and decision points (gates).
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717132681370/9a99f7bc-40d8-4abc-bd21-95228f90ddb6.png align="center")
+
 ### Essence of the Stage Gate Method
 
 1. **Stages**:
@@ -318,6 +320,8 @@ In-house business development of the innovation process involves fostering innov
 #### Introduction to Open Innovation
 
 Open Innovation is a modern approach to innovation management that emphasizes the use of external ideas and paths to market, alongside internal efforts, to advance technology and products. This concept contrasts with the traditional "closed innovation" model, where innovation activities are conducted strictly within the confines of the organization.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717132750422/462d19e2-24aa-485d-a77e-a40315a95f69.png align="center")
 
 ### Key Concepts of Open Innovation
 
