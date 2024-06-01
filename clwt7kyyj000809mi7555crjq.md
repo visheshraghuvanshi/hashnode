@@ -294,8 +294,6 @@ Innovation is essential for business growth and competitiveness. Understanding t
 
 ## Creative Methods and Approaches Used in Innovation Management
 
-### Introduction to Creative Methods in Innovation Management
-
 Innovation management requires creative methods and approaches to foster new ideas and implement effective solutions. Creativity is the backbone of innovation, enabling organizations to solve problems, meet customer needs, and stay competitive in dynamic markets.
 
 ### Brainstorming
@@ -561,6 +559,8 @@ Example of how SCAMPER can be used to rethink a product's design. For instance, 
 
 ### Design Thinking
 
+Design Thinking is a user-centered approach to problem-solving and innovation that emphasizes understanding the needs of users, generating creative ideas, and iterating solutions through prototyping and testing. It combines empathy for the context of a problem, creativity in generating insights and solutions, and rationality in analyzing and fitting solutions to the context. Design Thinking is widely used in business and education to foster innovation and address complex challenges.
+
 **Definition**:
 
 * A user-centered approach to innovation that involves understanding the user, challenging assumptions, and redefining problems to identify alternative strategies and solutions.
@@ -570,46 +570,231 @@ Example of how SCAMPER can be used to rethink a product's design. For instance, 
 
 **Stages of Design Thinking**:
 
-1. **Empathize**: Understand the needs and problems of users.
-    
-2. **Define**: Clearly define the problem based on user insights.
-    
-3. **Ideate**: Generate a wide range of ideas and solutions.
-    
-4. **Prototype**: Create simple, experimental models of the ideas.
-    
-5. **Test**: Test prototypes with users and gather feedback.
-    
+Design Thinking typically follows five stages, though these stages are not always sequential and can often loop back to previous stages:
 
-**Key Points**:
+1. **Empathize**:
+    
+    * **Objective**: Gain an empathetic understanding of the problem through user research.
+        
+    * **Methods**:
+        
+        * User Interviews
+            
+        * Observations
+            
+        * Empathy Maps
+            
+        * Personas
+            
+    * **Outcome**: A clear understanding of users’ needs, behaviors, and pain points.
+        
+2. **Define**:
+    
+    * **Objective**: Clearly articulate the problem you want to solve based on insights from the Empathize stage.
+        
+    * **Methods**:
+        
+        * Problem Statements
+            
+        * Point of View (POV) Statements
+            
+        * Journey Maps
+            
+    * **Outcome**: A well-defined problem statement that guides the ideation process.
+        
+3. **Ideate**:
+    
+    * **Objective**: Generate a wide range of ideas and potential solutions.
+        
+    * **Methods**:
+        
+        * Brainstorming
+            
+        * Mind Mapping
+            
+        * Sketching
+            
+        * SCAMPER Technique
+            
+    * **Outcome**: A diverse set of ideas from which the best ones can be selected for prototyping.
+        
+4. **Prototype**:
+    
+    * **Objective**: Build simple, tangible representations of selected ideas to explore their feasibility.
+        
+    * **Methods**:
+        
+        * Paper Prototypes
+            
+        * Digital Mockups
+            
+        * 3D Models
+            
+    * **Outcome**: Early versions of solutions that can be tested and iterated upon.
+        
+5. **Test**:
+    
+    * **Objective**: Test prototypes with users to gather feedback and learn what works and what doesn’t.
+        
+    * **Methods**:
+        
+        * Usability Testing
+            
+        * A/B Testing
+            
+        * Feedback Sessions
+            
+    * **Outcome**: Insights into how well the solution meets user needs and areas for improvement.
+        
 
-* Focuses on empathy and user-centricity.
+#### Key Principles of Design Thinking
+
+1. **Human-Centered Approach**:
     
-* Iterative process allows continuous refinement and improvement of ideas.
+    * Focus on deeply understanding the needs, wants, and limitations of the end-users.
+        
+    * Empathy is at the core of this approach, requiring designers to immerse themselves in the users' experiences.
+        
+2. **Collaboration**:
     
+    * Involves multi-disciplinary teams to bring diverse perspectives and expertise.
+        
+    * Encourages open communication and co-creation among team members and stakeholders.
+        
+3. **Experimentation and Prototyping**:
+    
+    * Emphasizes the importance of creating prototypes to explore ideas and test their feasibility.
+        
+    * Iterative process of building, testing, and refining solutions based on feedback.
+        
+4. **Iterative Process**:
+    
+    * Design Thinking is non-linear and involves repeated cycles of ideation, prototyping, and testing.
+        
+    * Continuous iteration helps in refining solutions to better meet user needs.
+        
+5. **Bias Towards Action**:
+    
+    * Encourages moving quickly from ideation to prototyping and testing.
+        
+    * Emphasizes doing over excessive planning to learn from real-world feedback.
+        
 
 ### TRIZ (Theory of Inventive Problem Solving)
+
+TRIZ (Teoriya Resheniya Izobretatelskikh Zadach), translated as the "Theory of Inventive Problem Solving," is a systematic approach for understanding and solving complex problems, especially in the field of engineering and technology. Developed by Genrich Altshuller and his colleagues in the Soviet Union beginning in 1946, TRIZ is based on the study of patterns of invention in the global patent literature.
 
 **Definition**:
 
 * A problem-solving, analysis, and forecasting tool derived from the study of patterns of invention in the global patent literature.
     
 
-**Principles of TRIZ**:
+#### Key Principles of TRIZ
 
-1. **Contradiction Identification**: Identifying and solving contradictions in the system.
+1. **Contradiction**:
     
-2. **Resources Utilization**: Making full use of available resources.
+    * Central to TRIZ is the concept of contradictions, which are obstacles that prevent the achievement of an ideal solution.
+        
+    * **Technical Contradictions**: Situations where improving one parameter leads to the worsening of another.
+        
+    * **Physical Contradictions**: Situations where an element needs to have opposing properties (e.g., being both hot and cold).
+        
+2. **Ideality**:
     
-3. **Ideal Final Result (IFR)**: Defining the ideal solution without constraints.
+    * The notion of ideality refers to the state where a system performs its function without any negative consequences or additional resources.
+        
+    * The goal of TRIZ is to approach this ideal state by resolving contradictions and eliminating inefficiencies.
+        
+3. **Patterns of Evolution**:
     
+    * TRIZ identifies patterns in the way technical systems evolve over time. These patterns help predict future developments and guide innovative problem solving.
+        
+    * Common patterns include increasing dynamism, improving controllability, and transitioning from macro to micro levels.
+        
+4. **Inventive Principles**:
+    
+    * TRIZ includes 40 inventive principles that provide generalized solutions to common contradictions.
+        
+    * Examples include segmentation, universality, nested doll, and self-service.
+        
+5. **Algorithm of Inventive Problem Solving (ARIZ)**:
+    
+    * ARIZ is a structured approach within TRIZ that guides problem solvers through a series of steps to identify and resolve contradictions.
+        
+    * It includes phases such as formulating the problem, analyzing the problem, and synthesizing a solution.
+        
 
-**Key Points**:
+#### The TRIZ Process
 
-* Systematic approach to innovation.
+1. **Problem Definition**:
     
-* Uses a database of inventive principles and patterns to solve problems.
+    * **Objective**: Clearly define the problem and identify the main contradiction.
+        
+    * **Methods**:
+        
+        * Problem statement
+            
+        * Functional analysis
+            
+2. **Problem Analysis**:
     
+    * **Objective**: Analyze the problem to understand its structure and the underlying contradictions.
+        
+    * **Methods**:
+        
+        * Root cause analysis
+            
+        * System analysis
+            
+3. **Solution Generation**:
+    
+    * **Objective**: Use TRIZ tools and principles to generate solutions.
+        
+    * **Methods**:
+        
+        * Inventive principles
+            
+        * Contradiction matrix
+            
+        * Substance-field analysis
+            
+4. **Solution Evaluation and Implementation**:
+    
+    * **Objective**: Evaluate potential solutions and implement the most feasible one.
+        
+    * **Methods**:
+        
+        * Cost-benefit analysis
+            
+        * Prototyping
+            
+        * Testing
+            
+
+#### TRIZ Tools and Techniques
+
+1. **Contradiction Matrix**:
+    
+    * A tool used to identify which of the 40 inventive principles can be applied to solve a particular technical contradiction.
+        
+2. **40 Inventive Principles**:
+    
+    * A set of generalized strategies for solving technical problems. Some examples include:
+        
+        * **Segmentation**: Dividing an object into independent parts.
+            
+        * **Taking Out**: Removing a problematic part or property from an object.
+            
+        * **Local Quality**: Transitioning from a homogeneous structure to a heterogeneous one.
+            
+3. **Substance-Field Analysis (Su-Field Analysis)**:
+    
+    * A tool for modeling problems and identifying interactions between substances (materials) and fields (energy).
+        
+4. **ARIZ (Algorithm of Inventive Problem Solving)**:
+    
+    * A step-by-step method for solving complex problems by breaking them down into manageable parts and applying TRIZ principles.
+        
 
 ## Approaches to Management of the Innovation Process
 
@@ -728,7 +913,7 @@ Example of how SCAMPER can be used to rethink a product's design. For instance, 
     * Encourage cross-functional collaboration and continuous learning throughout the organization.
         
 
-### SixThinking Hats
+### Six Thinking Hats
 
 **Definition**: Six Thinking Hats is a decision-making and problem-solving tool developed by Edward de Bono that allows individuals to explore different perspectives by "wearing" different hats representing different modes of thinking.
 
